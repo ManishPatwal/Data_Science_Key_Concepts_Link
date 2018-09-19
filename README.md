@@ -1,7 +1,7 @@
 # Data_Science_Key_Concepts_Link
 This repo contains link of Important Data Science Articles, Concepts and Approaches from around the web.
 
-##Machine Learning
+##*Machine Learning*
 https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
 Caret Package in R
