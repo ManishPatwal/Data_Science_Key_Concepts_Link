@@ -52,7 +52,7 @@ The most commonly used penalized regression include:
 ridge regression: variables with minor contribution have their coefficients close to zero. However, all the variables are incorporated in the model. This is useful when all variables need to be incorporated in the model according to domain knowledge.
 lasso regression: the coefficients of some less contributive variables are forced to be exactly zero. Only the most significant variables are kept in the final model.
 elastic net regression: the combination of ridge and lasso regression. It shrinks some coefficients toward zero (like ridge regression) and set some coefficients to exactly zero (like lasso regression)
-
+https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
 
 Bagging vs Bootstrapping
 The big difference between bagging and validation techniques is that bagging averages models (or predictions of an ensemble of models) in order to reduce the variance the prediction is subject to while resampling validation such as cross validation and out-of-bootstrap validation evaluate a number of surrogate models assuming that they are equivalent (i.e. a good surrogate) for the actual model in question which is trained on the whole data set.
