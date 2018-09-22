@@ -1,5 +1,7 @@
 # Data_Science_Key_Concepts_Link
 This repo contains link of Important Data Science Articles, Concepts and Approaches from around the web.
+**Glossary ML &DS **
+https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 
 **Machine Learning**
 https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
@@ -43,4 +45,16 @@ http://www.sthda.com/english/articles/36-classification-methods-essentials/149-p
 
 Penalized Logistic Regression Essentials in R: Ridge, Lasso and Elastic Net
 
+Penalized logistic regression imposes a penalty to the logistic model for having too many variables. This results in shrinking the coefficients of the less contributive variables toward zero. This is also known as regularization.
 
+The most commonly used penalized regression include:
+
+ridge regression: variables with minor contribution have their coefficients close to zero. However, all the variables are incorporated in the model. This is useful when all variables need to be incorporated in the model according to domain knowledge.
+lasso regression: the coefficients of some less contributive variables are forced to be exactly zero. Only the most significant variables are kept in the final model.
+elastic net regression: the combination of ridge and lasso regression. It shrinks some coefficients toward zero (like ridge regression) and set some coefficients to exactly zero (like lasso regression)
+
+
+Bagging vs Bootstrapping
+The big difference between bagging and validation techniques is that bagging averages models (or predictions of an ensemble of models) in order to reduce the variance the prediction is subject to while resampling validation such as cross validation and out-of-bootstrap validation evaluate a number of surrogate models assuming that they are equivalent (i.e. a good surrogate) for the actual model in question which is trained on the whole data set.
+
+Bagging uses bootstrapped subsets (i.e. drawing with replacement of the original data set) of training data to generate such an ensemble but you can also use ensembles that are produced by drawing without replacement, i.e. cross validation: 
