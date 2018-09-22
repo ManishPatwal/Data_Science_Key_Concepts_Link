@@ -61,3 +61,6 @@ Bagging uses bootstrapped subsets (i.e. drawing with replacement of the original
 
 
 http://www.robots.ox.ac.uk/~az/lectures/ml/lect4.pdf
+
+**Bias Vs Variance**
+https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-machine-learning-16ced95724db
