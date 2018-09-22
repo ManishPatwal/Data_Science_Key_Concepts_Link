@@ -37,10 +37,10 @@ Neural network
 
 https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/
 
+Classification Methods Essentials
+http://www.sthda.com/english/articles/36-classification-methods-essentials/149-penalized-logistic-regression-essentials-in-r-ridge-lasso-and-elastic-net/
 
 
-
-
-
+Penalized Logistic Regression Essentials in R: Ridge, Lasso and Elastic Net
 
 
