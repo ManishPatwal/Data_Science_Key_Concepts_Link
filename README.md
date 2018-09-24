@@ -8,6 +8,8 @@ https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
 **Tidy Text Data in R**
 https://www.tidytextmining.com/preface.html
+https://www.youtube.com/watch?v=0poJP8WQxew
+
 
 Caret Package in R
 
