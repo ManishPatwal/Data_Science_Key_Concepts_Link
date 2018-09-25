@@ -15,8 +15,9 @@ Caret Package in R
 
 https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/
 
-Shiny App Tutorial
+**Shiny App Tutorial**
 https://youtu.be/_0ORRJqctHE
+https://www.analyticsvidhya.com/blog/2016/10/creating-interactive-data-visualization-using-shiny-app-in-r-with-examples/
 
 LEAFLET & SHINY INTERACTIVE TUTORIAL
 https://www.datascience.com/blog/beginners-guide-to-shiny-and-leaflet-for-interactive-mapping
