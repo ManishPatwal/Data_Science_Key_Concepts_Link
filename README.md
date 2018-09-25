@@ -10,7 +10,7 @@ https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 https://www.tidytextmining.com/preface.html
 https://www.youtube.com/watch?v=0poJP8WQxew
 
-
+**Creating Packages**
 Caret Package in R
 
 https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machine-learning-with-caret-package-in-r-with-practice-problem/
