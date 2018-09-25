@@ -18,6 +18,8 @@ https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machin
 Shiny App Tutorial
 https://youtu.be/_0ORRJqctHE
 
+LEAFLET & SHINY INTERACTIVE TUTORIAL
+https://www.datascience.com/blog/beginners-guide-to-shiny-and-leaflet-for-interactive-mapping
 
 ##MATHS
 
