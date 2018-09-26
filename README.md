@@ -71,3 +71,8 @@ http://www.robots.ox.ac.uk/~az/lectures/ml/lect4.pdf
 
 **Bias Vs Variance**
 https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-machine-learning-16ced95724db
+
+**WEB APIS in R**
+https://www.youtube.com/watch?v=lV3u6Dc93T0
+
+
