@@ -6,6 +6,11 @@ https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learni
 **Machine Learning**
 https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
+**Suport Vector Machine**
+https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+**Tree Based Modelling from Scratch**
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+
 **Tidy Text Data in R**
 https://www.tidytextmining.com/preface.html
 https://www.youtube.com/watch?v=0poJP8WQxew
