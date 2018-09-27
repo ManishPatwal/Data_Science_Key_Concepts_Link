@@ -31,7 +31,7 @@ https://www.analyticsvidhya.com/blog/2016/12/practical-guide-to-implement-machin
 https://youtu.be/_0ORRJqctHE
 https://www.analyticsvidhya.com/blog/2016/10/creating-interactive-data-visualization-using-shiny-app-in-r-with-examples/
 
-LEAFLET & SHINY INTERACTIVE TUTORIAL
+**LEAFLET & SHINY INTERACTIVE TUTORIAL**
 https://www.datascience.com/blog/beginners-guide-to-shiny-and-leaflet-for-interactive-mapping
 
 ##MATHS
@@ -77,7 +77,7 @@ lasso regression: the coefficients of some less contributive variables are force
 elastic net regression: the combination of ridge and lasso regression. It shrinks some coefficients toward zero (like ridge regression) and set some coefficients to exactly zero (like lasso regression)
 https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
 
-Bagging vs Bootstrapping
+**Bagging vs Bootstrapping**
 The big difference between bagging and validation techniques is that bagging averages models (or predictions of an ensemble of models) in order to reduce the variance the prediction is subject to while resampling validation such as cross validation and out-of-bootstrap validation evaluate a number of surrogate models assuming that they are equivalent (i.e. a good surrogate) for the actual model in question which is trained on the whole data set.
 
 Bagging uses bootstrapped subsets (i.e. drawing with replacement of the original data set) of training data to generate such an ensemble but you can also use ensembles that are produced by drawing without replacement, i.e. cross validation: 
