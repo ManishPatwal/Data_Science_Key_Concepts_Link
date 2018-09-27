@@ -8,6 +8,13 @@ https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
 **Suport Vector Machine**
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+If you have a classification problem, i.e., discrete label to predict, you can use C-classification and nu-classification.
+
+If you have a regression problem, i.e., continuous number to predict, you can use eps-regression and nu-regression.
+
+If you only have one class of the data, i.e., normal behavior, and want to detect outliers.  one-classification.
+
 **Tree Based Modelling from Scratch**
 https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
 
