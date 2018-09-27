@@ -96,4 +96,5 @@ In geometry, a hyperplane is a subspace whose dimension is one less than that of
 
 **Sigmoid function**
 
-
+**Super Data Science**
+https://www.superdatascience.com/machine-learning/
