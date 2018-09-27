@@ -8,7 +8,7 @@ https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
 **Suport Vector Machine**
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
-
+In geometry, a hyperplane is a subspace whose dimension is one less than that of its ambient space. If a space is 3-dimensional then its hyperplanes are the 2-dimensional planes, while if the space is 2-dimensional, its hyperplanes are the 1-dimensional lines.
 If you have a classification problem, i.e., discrete label to predict, you can use C-classification and nu-classification.
 
 If you have a regression problem, i.e., continuous number to predict, you can use eps-regression and nu-regression.
@@ -90,5 +90,10 @@ https://towardsdatascience.com/balancing-bias-and-variance-to-control-errors-in-
 
 **WEB APIS in R**
 https://www.youtube.com/watch?v=lV3u6Dc93T0
+
+**Mathematics**
+In geometry, a hyperplane is a subspace whose dimension is one less than that of its ambient space. If a space is 3-dimensional then its hyperplanes are the 2-dimensional planes, while if the space is 2-dimensional, its hyperplanes are the 1-dimensional lines.
+
+**Sigmoid function**
 
 
