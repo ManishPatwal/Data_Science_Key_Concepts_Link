@@ -106,3 +106,6 @@ https://www.r-bloggers.com/radial-kernel-support-vector-classifier/
 https://machinelearningmastery.com/machine-learning-ensembles-with-r/
 
 **https://datascienceplus.com/extreme-gradient-boosting-with-r/**
+
+**Out of Sample Error**
+https://www.youtube.com/watch?v=uswmGsGmDZc
