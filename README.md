@@ -98,3 +98,9 @@ In geometry, a hyperplane is a subspace whose dimension is one less than that of
 
 **Super Data Science**
 https://www.superdatascience.com/machine-learning/
+
+**SVM RADIAL**
+https://www.r-bloggers.com/radial-kernel-support-vector-classifier/
+
+**ENSEMBLE MODELS IN R**
+https://machinelearningmastery.com/machine-learning-ensembles-with-r/
