@@ -109,3 +109,11 @@ https://machinelearningmastery.com/machine-learning-ensembles-with-r/
 
 **Out of Sample Error**
 https://www.youtube.com/watch?v=uswmGsGmDZc
+
+**Ensemble Learning**
+Stack Mutiple Models
+Combine Models for Prediction
+https://www.datacamp.com/community/tutorials/ensemble-r-machine-learning
+
+**Super Learner Package in R**
+https://www.datacamp.com/community/tutorials/ensemble-r-machine-learning
