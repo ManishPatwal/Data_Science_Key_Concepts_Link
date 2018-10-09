@@ -117,3 +117,6 @@ https://www.datacamp.com/community/tutorials/ensemble-r-machine-learning
 
 **Super Learner Package in R**
 https://www.datacamp.com/community/tutorials/ensemble-r-machine-learning
+
+**Models for Classification**
+https://deepsense.ai/extreme-gradient-boosting-vs-random-forest-and-the-caret-package-for-r/
