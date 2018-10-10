@@ -3,6 +3,10 @@ This repo contains link of Important Data Science Articles, Concepts and Approac
 **Glossary ML &DS **
 https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 
+
+**Developing R Packages**
+https://www.youtube.com/watch?v=NviTl4UJGt0
+
 **https://awesome-r.com/**
 **Machine Learning**
 https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
