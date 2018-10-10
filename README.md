@@ -3,6 +3,7 @@ This repo contains link of Important Data Science Articles, Concepts and Approac
 **Glossary ML &DS **
 https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 
+**https://awesome-r.com/**
 **Machine Learning**
 https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
@@ -129,3 +130,21 @@ https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/
 
 **Making Predictions over HTTP with R**
 https://raybuhr.github.io/2017/10/making-predictions-over-http/
+
+**APM BOOK EXCERCISES**
+https://github.com/topepo/APM_Exercises
+
+**10 R packages I wish**
+http://blog.yhat.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html
+
+**Processing and Analyzing Financial Data with R**
+https://msperlin.github.io/pafdR/preface.html
+
+**Processing and Analyzing Financial Data with R**
+https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/
+
+**Building a drone in 50 lines of code**
+https://medium.com/nanonets/how-i-built-a-self-flying-drone-to-track-people-in-under-50-lines-of-code-7485de7f828e
+
+**Bias-Variance Tradeoff:**
+https://www.kdnuggets.com/2016/08/bias-variance-tradeoff-overview.html
