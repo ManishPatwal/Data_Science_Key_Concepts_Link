@@ -125,3 +125,7 @@ https://deepsense.ai/extreme-gradient-boosting-vs-random-forest-and-the-caret-pa
 What are Bagging, Boosting and Stacking?
 https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/
 https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/
+
+
+**Making Predictions over HTTP with R**
+https://raybuhr.github.io/2017/10/making-predictions-over-http/
