@@ -152,3 +152,17 @@ https://medium.com/nanonets/how-i-built-a-self-flying-drone-to-track-people-in-u
 
 **Bias-Variance Tradeoff:**
 https://www.kdnuggets.com/2016/08/bias-variance-tradeoff-overview.html
+
+
+**Web scraping**
+https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/
+
+
+https://github.com/amrrs/oneplus_amz_availability
+
+
+
+
+
+
+
