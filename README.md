@@ -1,5 +1,13 @@
 # Data_Science_Key_Concepts_Link
 This repo contains link of Important Data Science Articles, Concepts and Approaches from around the web.
+
+
+
+ **10 Most Important Alogirthms**
+ https://link.medium.com/lbPxnl2J8Q
+ **Tuning Machine Learning Models Using the Caret R Package**
+https://machinelearningmastery.com/tuning-machine-learning-models-using-the-caret-r-package/
+
 **Glossary ML &DS **
 https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 
