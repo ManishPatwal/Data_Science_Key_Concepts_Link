@@ -1,6 +1,9 @@
 # Data_Science_Key_Concepts_Link
 This repo contains link of Important Data Science Articles, Concepts and Approaches from around the web.
 
+**PCA**
+https://towardsdatascience.com/https-medium-com-abdullatif-h-dimensionality-reduction-for-dummies-part-1-a8c9ec7b7e79
+
 
 
  **10 Most Important Alogirthms**
