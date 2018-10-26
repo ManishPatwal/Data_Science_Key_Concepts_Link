@@ -171,7 +171,8 @@ https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-
 
 https://github.com/amrrs/oneplus_amz_availability
 
-
+**NEURAL NETWORK BOOKS**
+http://neuralnetworksanddeeplearning.com/chap1.html
 
 
 
