@@ -173,6 +173,7 @@ https://github.com/amrrs/oneplus_amz_availability
 
 **NEURAL NETWORK BOOKS**
 http://neuralnetworksanddeeplearning.com/chap1.html
+http://colah.github.io/
 
 
 
